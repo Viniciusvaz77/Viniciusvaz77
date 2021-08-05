@@ -17,7 +17,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Hinata" src="https://cdn.discordapp.com/attachments/719755923127664661/871221264210092063/tumblr_7a89454ad8aae07e9625a176310388d8_84990ca7_250.png">
+  <img align="right" alt="Hinata" src="https://cdn.discordapp.com/attachments/861742068657553440/872676677472370718/tumblr_7a89454ad8aae07e9625a176310388d8_84990ca7_250.png">
 </div>
   
   ##
